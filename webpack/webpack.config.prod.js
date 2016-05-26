@@ -2,10 +2,8 @@ var path = require("path");
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var InlineEnviromentVariablesPlugin = require('inline-environment-variables-webpack-plugin');
 var webpack = require("webpack");
-
 var assetsPath = path.join(__dirname, "..", "public", "assets");
 var publicPath = "assets/";
-
 var commonLoaders = [
   {
     /*

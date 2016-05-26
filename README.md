@@ -100,7 +100,7 @@ npm test
 npm test:watch
 ```
 
-###Contact me at jeffmendez19@gmail.com
+###Contact me at jeffmendez19@gmail
 
 
 
